@@ -3,3 +3,5 @@ good website:
 https://sites.google.com/site/jspanhomepage/
 
 https://github.com/jbhuang0604/awesome-computer-vision
+
+http://ahay.org/RSF/book/hansung/cgg/paper_html/node3.html
